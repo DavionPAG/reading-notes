@@ -14,4 +14,4 @@
 - CSS3 also introduces opacity which allows you to specify the opacity of an element.
 - you can also adjust the HSL: Hue, Staturation, and Lightness using CSS
 
-- [Reading Notes Home](https://vektur.github.io/reading-notes/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)

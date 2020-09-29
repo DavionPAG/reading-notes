@@ -10,4 +10,4 @@
 - Expresions: resuits in a single value. There are 2 types of expressions. One that assigns a value to a variable and another that uses 2 or more values to return a single value.
 - Operators: allow you to create a single from one or more values. Examples of operators are math symbols i.e. -,+,*,/.
 
-- [Reading Notes Home](https://vektur.github.io/reading-notes/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)

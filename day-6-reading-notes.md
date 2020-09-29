@@ -10,4 +10,4 @@ I now understand what 64 bit refers to :)
 Smaller computers are generally faster because the smaller parts means less distance for the electricity to travel which results in faster processing.
 
 
-- [Reading Notes Home](https://vektur.github.io/reading-notes/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)
