@@ -5,14 +5,14 @@
 
 ---
 ## Reading Notes
-201
+### 201
+
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
 
 ---
 
-102
-
+### 102
 
 - [Day 1](day-1-reading-notes.md)
 - [Day 2 Reading Notes](day-2-reading-notes.md)

@@ -28,4 +28,4 @@
 - 'Update' : adds 1 to the counter each time the loop runs the statement in the curly braces.
 
 ---
-- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes/)

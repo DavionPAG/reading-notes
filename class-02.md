@@ -63,4 +63,4 @@
 
 
 
-- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes/)

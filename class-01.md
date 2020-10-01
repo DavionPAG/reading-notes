@@ -47,4 +47,4 @@ How will they visit? Answering these questions is crucial to the development of 
 - Think of 'objects' as things and 'properties' as the characteristics of those things.
 
 ---
-- [Reading Notes Home](https://vektur.github.io/reading-notes-3/)
+- [Reading Notes Home](https://vektur.github.io/reading-notes/)
