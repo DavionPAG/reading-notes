@@ -7,6 +7,7 @@
 ## Reading Notes
 201
 - [Class 1](class-01.md)
+- [Class 2](class-02.md)
 
 ---
 
