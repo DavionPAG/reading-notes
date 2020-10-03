@@ -29,3 +29,5 @@
 - Switch statement have a default value.
 - If a value is match the break statment stops the rest of the switch from running.
 - "Weak typing" means the the data type for a value can change. JS uses WEAK TYPING.
+
+- [Reading Notes Home](https://vektur.github.io/reading-notes/)

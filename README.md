@@ -9,7 +9,7 @@
 
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
-- [Class 2](class-02.md)
+- [Class 3](class-03.md)
 ---
 
 ### 102
