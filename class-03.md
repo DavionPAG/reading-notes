@@ -6,7 +6,7 @@
 - \<dl> = definition list
 - \<dt> = definition term
 
-#
+---
 
 ## HMTL/CSS Chapter 13
 
@@ -21,7 +21,7 @@
 - Under "Display" CSS, 'Inline' causes block-level elements to act like an inline element.
 - Under "Display" CSS, 'block' is the oposite of 'inline'
 
-#
+---
 
 ## JS Chapter 4
 
@@ -30,4 +30,5 @@
 - If a value is match the break statment stops the rest of the switch from running.
 - "Weak typing" means the the data type for a value can change. JS uses WEAK TYPING.
 
+---
 - [Reading Notes Home](https://vektur.github.io/reading-notes/)
