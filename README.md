@@ -7,9 +7,10 @@
 ## Reading Notes
 ### 201
 
-- [Class 1](class-01.md)
-- [Class 2](class-02.md)
-- [Class 3](class-03.md)
+- [Read 1](read-01.md)
+- [Read 2](read-02.md)
+- [Read 3](read-03.md)
+- [Read 4](read-04.md)
 
 ---
 
