@@ -13,6 +13,7 @@
 - [Read 4](read-04.md)
 - [Read 5](read-05.md)
 - [Read 6](read-06.md)
+- [Read 7](read-07.md)
 
 ---
 
