@@ -14,6 +14,7 @@
 - [Read 5](read-05.md)
 - [Read 6](read-06.md)
 - [Read 7](read-07.md)
+- [Read 8](read-08.md)
 
 ---
 
