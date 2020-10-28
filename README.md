@@ -7,15 +7,16 @@
 ## Reading Notes
 ### 201
 
-- [Read 1](read-01.md)
-- [Read 2](read-02.md)
-- [Read 3](read-03.md)
-- [Read 4](read-04.md)
-- [Read 5](read-05.md)
-- [Read 6](read-06.md)
-- [Read 7](read-07.md)
-- [Read 8](read-08.md)
-- [Read 9](read-09.md)
+- [Notes 1](read-01.md)
+- [Notes 2](read-02.md)
+- [Notes 3](read-03.md)
+- [Notes 4](read-04.md)
+- [Notes 5](read-05.md)
+- [Notes 6](read-06.md)
+- [Notes 7](read-07.md)
+- [Notes 8](read-08.md)
+- [Notes 9](read-09.md)
+- [Notes 10](read-10.md)
 
 ---
 

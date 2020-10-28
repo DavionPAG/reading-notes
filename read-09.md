@@ -28,7 +28,7 @@
 - Events are fired or raised.
 - Event handling steps: get element, indicate event, state the code.
 - Event listeners were introduced in an update to the DOM specification (DOM level 2, released in the year 2000).
-- 
+
 
 ---
 
