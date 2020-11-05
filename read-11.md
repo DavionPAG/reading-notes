@@ -17,3 +17,7 @@
 - Use keywords in the text that create links between pages (rather than using generic expressions such as "click here").
 - Search engines rely on you providing accurate descriptions of images in the alt text.
 - !!!Never try to fool search engines! They will penalize you for it. For example, never add text in the same color as the background of the page as they can detect this.!!!
+
+--- 
+
+- [Reading Notes Home](https://vektur.github.io/reading-notes/)
