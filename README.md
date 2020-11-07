@@ -1,7 +1,7 @@
 
 <div align ="center"> Welcome </div>
-<div align ="center">A few things about me:</div>
-<div align ="center"> Air Force Veteran - Carpenter - Birds :)</div>
+<div align ="center">A bit about me:</div>
+<div align ="center"> AF Vet - Carpenter - <3 Birds </div>
 
 ---
 ## Reading Notes
@@ -18,7 +18,8 @@
 - [Notes 9](read-09.md)
 - [Notes 10](read-10.md)
 - [Notes 11](read-11.md)
-- [Notes 11](read-11.md)
+- [Notes 12](read-12.md)
+- [Notes 13](read-13.md)
 
 ---
 
