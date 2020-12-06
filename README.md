@@ -5,7 +5,9 @@
 
 ---
 
-## Reading Notes
+## [Reading Notes](https://vektur.github.io/reading-notes/)
+
+---
 
 ### 301
 
@@ -31,11 +33,11 @@
 
 ### 102
 
-- [Day 1](day-1-reading-notes.md)
-- [Day 2](day-2-reading-notes.md)
-- [Day 3](day-3-reading-notes.md)
-- [Day 4](day-4-reading-notes.md)
-- [Day 5](day-5-reading-notes.md)
-- [Day 6](day-6-reading-notes.md)
-- [Day 7](day-7-reading-notes.md)
-- [Day 8](day-8-reading-notes.md)
+- [Notes 1](day-1-reading-notes.md)
+- [Notes 2](day-2-reading-notes.md)
+- [Notes 3](day-3-reading-notes.md)
+- [Notes 4](day-4-reading-notes.md)
+- [Notes 5](day-5-reading-notes.md)
+- [Notes 6](day-6-reading-notes.md)
+- [Notes 7](day-7-reading-notes.md)
+- [Notes 8](day-8-reading-notes.md)
