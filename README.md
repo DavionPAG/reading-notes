@@ -4,22 +4,28 @@
 <div align ="center"> AF Vet - Carpenter - <3 Birds </div>
 
 ---
+
 ## Reading Notes
+
+### 301
+
+- [Notes 1](301/01.md)
+
 ### 201
 
-- [Notes 1](read-01.md)
-- [Notes 2](read-02.md)
-- [Notes 3](read-03.md)
-- [Notes 4](read-04.md)
-- [Notes 5](read-05.md)
-- [Notes 6](read-06.md)
-- [Notes 7](read-07.md)
-- [Notes 8](read-08.md)
-- [Notes 9](read-09.md)
-- [Notes 10](read-10.md)
-- [Notes 11](read-11.md)
-- [Notes 12](read-12.md)
-- [Notes 13](read-13.md)
+- [Notes 1](201/read-01.md)
+- [Notes 2](201/read-02.md)
+- [Notes 3](201/read-03.md)
+- [Notes 4](201/read-04.md)
+- [Notes 5](201/read-05.md)
+- [Notes 6](201/read-06.md)
+- [Notes 7](201/read-07.md)
+- [Notes 8](201read-08.md)
+- [Notes 9](201/read-09.md)
+- [Notes 10](201/read-10.md)
+- [Notes 11](201/read-11.md)
+- [Notes 12](201/read-12.md)
+- [Notes 13](201/read-13.md)
 
 ---
 
