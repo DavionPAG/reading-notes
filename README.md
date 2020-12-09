@@ -1,7 +1,6 @@
-
-<div align ="center"> Welcome </div>
-<div align ="center">A bit about me:</div>
-<div align ="center"> AF Vet - Carpenter - <3 Birds </div>
+# <div align ="center"> Welcome </div>
+## <div align ="center">A bit about me:</div>
+### <div align ="center"> AF Vet - Carpenter - <3 Birds </div>
 
 ---
 
@@ -11,7 +10,8 @@
 
 ### 301
 
-- [Notes 1](301/01.md)
+- [Notes 01](301/01.md)
+- [Notes 02](301/02.md)
 
 ### 201
 
