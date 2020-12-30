@@ -4,7 +4,7 @@
 
 ---
 
-## [Reading Notes](https://vektur.github.io/reading-notes/)
+## [Deployed Reading Notes](https://vektur.github.io/reading-notes/)
 
 ---
 
@@ -14,6 +14,9 @@
 - [Notes 02](301/02.md)
 - [Notes 03](301/03.md)
 - [Notes 04](301/04.md)
+- [Notes 05](301/05.md)
+- [Notes 06](301/06.md)
+- [Notes 07](301/07.md)
 
 
 ### 201
