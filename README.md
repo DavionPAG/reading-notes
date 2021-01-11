@@ -1,7 +1,8 @@
 # <div align ="center"> Welcome </div>
-## <div align ="center">A bit about me:</div>
-### <div align ="center"> AF Vet - Carpenter - <3 Birds </div>
 
+## <div align ="center">A bit about me:</div>
+
+### <div align ="center"> AF Vet - Carpenter - <3 Birds </div>
 ---
 
 ## [Deployed Reading Notes](https://vektur.github.io/reading-notes/)
@@ -17,7 +18,15 @@
 - [Notes 05](301/05.md)
 - [Notes 06](301/06.md)
 - [Notes 07](301/07.md)
+- [Notes 08](301/08.md)
 
+- [Notes 09](301/09.md)
+<!-- - [Notes 10](301/10.md)
+- [Notes 11](301/11.md)
+- [Notes 12](301/12.md)
+- [Notes 13](301/13.md)
+- [Notes 14](301/14.md)
+- [Notes 15](301/15.md) -->
 
 ### 201
 
